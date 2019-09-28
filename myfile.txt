@@ -1,4 +1,4 @@
-Java is an object oriented programming language.
+Java is an object oriented programming language and was developed under James.
 Java was developed by Sun MicroSystem
 Java was acquired by Oracle
 There are 15 versions of Java
